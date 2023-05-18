@@ -1,7 +1,4 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
-
-console.log("Welcome to Programiz!");
+//Quiz Assignment
 
 //1----> print only number that it should be print only integer
 const str=["1","3",5,"subhan"]
